@@ -3,7 +3,7 @@ A very simple visualization of modular multiplication in p5js and processing3
 
 ![modmult1.png](modmult1.png)
 
-[see it live here](https://editor.p5js.org/greggelong/full/Ma17Y0ztn)
+[see it live here](https://editor.p5js.org/greggelong/present/Ma17Y0ztn)
 
 Reading "Descartes' Secret Notebook" got me thinking of geometry, harmony and the universe. So I happened to revisit modular multiplication on my phone. When you don't clear the screen after each multiple, it makes a sort of nice harmonic universe in an egg thingy. Here I have coded it up in just about 30 lines, with a much more simple approach than I used before when following #thecodingtrain.
 
